@@ -1,0 +1,1 @@
+{"Name": "Sakthi", "Age": 21, "10th percent": 56.8, "12th percent": 44}
